@@ -1,0 +1,501 @@
+marital,ed,employ,gender
+unmarried,high school,yes,male
+unmarried,high school,no,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,female
+unmarried,college,yes,male
+unmarried,no high school,no,male
+married,no high school,yes,female
+unmarried,no high school,yes,male
+married,college,yes,male
+married,no high school,yes,male
+married,high school,yes,male
+unmarried,no high school,yes,male
+married,no high school,no,female
+married,no high school,yes,male
+unmarried,high school,yes,male
+married,college,yes,male
+married,no high school,no,female
+unmarried,high school,yes,male
+unmarried,college,no,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,yes,male
+married,college,yes,female
+unmarried,no high school,yes,male
+unmarried,no high school,no,male
+married,high school,yes,male
+married,college,no,male
+married,no high school,yes,male
+married,high school,yes,male
+unmarried,no high school,no,male
+married,high school,yes,male
+married,no high school,yes,male
+unmarried,no high school,no,male
+married,high school,no,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,college,no,male
+unmarried,high school,no,female
+unmarried,high school,no,male
+married,high school,no,male
+married,no high school,no,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,college,no,male
+unmarried,high school,yes,male
+unmarried,high school,no,female
+unmarried,no high school,no,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,college,no,male
+unmarried,no high school,yes,male
+married,no high school,no,male
+married,high school,no,female
+unmarried,college,yes,male
+unmarried,high school,yes,male
+unmarried,no high school,yes,female
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+unmarried,no high school,no,female
+married,no high school,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,male
+married,no high school,yes,male
+married,high school,yes,female
+unmarried,high school,yes,female
+unmarried,high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+married,no high school,no,male
+unmarried,high school,no,female
+unmarried,high school,yes,male
+unmarried,no high school,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,female
+married,no high school,yes,male
+married,no high school,no,male
+married,no high school,yes,female
+unmarried,high school,yes,female
+unmarried,no high school,no,male
+married,no high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,no,male
+married,no high school,no,male
+unmarried,high school,no,male
+married,college,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,female
+unmarried,college,yes,male
+unmarried,no high school,yes,male
+married,high school,yes,male
+unmarried,no high school,yes,male
+married,high school,no,male
+married,college,no,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+married,high school,no,female
+married,high school,yes,female
+unmarried,high school,yes,female
+unmarried,no high school,no,male
+married,college,yes,male
+unmarried,high school,no,male
+unmarried,no high school,no,male
+unmarried,no high school,no,male
+unmarried,high school,yes,male
+unmarried,no high school,no,male
+married,high school,no,male
+married,college,yes,male
+unmarried,college,yes,male
+unmarried,no high school,no,male
+unmarried,high school,no,male
+unmarried,high school,yes,male
+married,high school,no,male
+married,no high school,yes,male
+unmarried,high school,no,male
+unmarried,college,no,male
+unmarried,high school,yes,male
+unmarried,no high school,no,male
+unmarried,high school,no,male
+unmarried,high school,yes,female
+married,high school,yes,male
+unmarried,no high school,no,male
+married,no high school,no,male
+married,no high school,no,male
+married,high school,yes,male
+married,no high school,yes,male
+unmarried,college,no,male
+married,high school,yes,male
+unmarried,high school,yes,male
+unmarried,college,yes,male
+unmarried,college,yes,female
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,male
+married,no high school,no,male
+married,high school,yes,female
+unmarried,college,yes,female
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,high school,no,male
+married,no high school,no,female
+unmarried,high school,no,male
+unmarried,no high school,yes,female
+unmarried,college,yes,male
+unmarried,high school,yes,male
+married,no high school,no,female
+married,no high school,yes,male
+married,high school,yes,male
+married,no high school,no,male
+married,high school,yes,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+married,high school,no,male
+unmarried,college,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,college,yes,male
+married,high school,no,female
+married,college,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,college,no,male
+unmarried,college,yes,male
+unmarried,no high school,no,male
+unmarried,high school,no,male
+unmarried,no high school,yes,male
+married,college,yes,male
+married,no high school,no,male
+married,college,no,male
+unmarried,college,yes,female
+unmarried,no high school,no,male
+unmarried,no high school,yes,female
+married,no high school,no,female
+married,no high school,no,male
+married,no high school,no,male
+unmarried,no high school,yes,male
+married,no high school,yes,female
+unmarried,high school,no,male
+unmarried,college,yes,male
+unmarried,no high school,yes,male
+married,high school,yes,male
+married,no high school,yes,male
+married,college,yes,male
+married,no high school,no,female
+unmarried,no high school,yes,male
+married,high school,yes,male
+married,no high school,yes,male
+married,no high school,yes,male
+married,high school,no,male
+unmarried,college,yes,male
+married,college,yes,male
+unmarried,high school,yes,female
+unmarried,college,yes,male
+married,college,yes,male
+married,high school,yes,female
+unmarried,no high school,yes,male
+unmarried,no high school,no,male
+unmarried,high school,no,male
+married,no high school,yes,male
+unmarried,college,yes,female
+married,high school,yes,male
+married,high school,no,male
+unmarried,high school,yes,female
+unmarried,college,yes,female
+unmarried,college,yes,female
+unmarried,high school,yes,male
+unmarried,no high school,no,male
+married,no high school,no,female
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,yes,male
+married,high school,yes,male
+married,college,yes,male
+married,high school,yes,male
+married,no high school,yes,male
+unmarried,high school,no,female
+married,no high school,yes,male
+unmarried,no high school,no,male
+unmarried,high school,yes,female
+unmarried,no high school,yes,male
+married,college,no,male
+unmarried,college,no,male
+unmarried,no high school,yes,male
+unmarried,high school,no,female
+married,high school,yes,male
+married,high school,yes,male
+married,no high school,no,male
+unmarried,no high school,no,male
+unmarried,college,yes,male
+married,high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,yes,male
+unmarried,college,yes,male
+married,no high school,yes,male
+unmarried,high school,no,male
+unmarried,college,yes,male
+unmarried,high school,no,male
+married,college,yes,male
+married,high school,yes,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,female
+unmarried,college,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+unmarried,college,yes,male
+married,high school,yes,female
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,college,yes,male
+unmarried,high school,no,male
+unmarried,high school,yes,male
+unmarried,college,yes,female
+unmarried,high school,yes,male
+unmarried,college,yes,male
+married,college,no,male
+married,no high school,yes,female
+unmarried,no high school,no,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,no high school,no,male
+married,college,yes,male
+married,no high school,no,male
+married,high school,yes,male
+unmarried,no high school,no,male
+married,high school,yes,male
+unmarried,no high school,yes,female
+unmarried,no high school,no,male
+unmarried,no high school,no,male
+unmarried,college,no,male
+unmarried,no high school,no,male
+married,no high school,yes,female
+unmarried,high school,yes,female
+unmarried,no high school,no,male
+unmarried,no high school,no,male
+unmarried,no high school,yes,male
+married,no high school,no,male
+married,no high school,yes,female
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,high school,no,female
+married,high school,yes,male
+unmarried,no high school,yes,male
+married,college,yes,female
+unmarried,no high school,no,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+married,high school,yes,female
+unmarried,high school,no,male
+unmarried,college,no,female
+married,college,yes,female
+unmarried,high school,yes,female
+unmarried,high school,no,male
+married,no high school,yes,female
+unmarried,no high school,yes,male
+unmarried,college,no,male
+unmarried,no high school,yes,male
+unmarried,high school,yes,female
+unmarried,no high school,yes,male
+married,high school,no,male
+married,college,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,female
+unmarried,no high school,no,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,no high school,no,male
+unmarried,no high school,yes,male
+unmarried,high school,no,male
+married,no high school,no,male
+married,high school,yes,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,no high school,no,male
+married,no high school,no,male
+unmarried,college,no,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+married,college,no,female
+unmarried,high school,no,male
+married,high school,yes,male
+married,high school,yes,male
+married,no high school,no,male
+married,no high school,no,male
+unmarried,no high school,yes,female
+unmarried,no high school,no,female
+unmarried,no high school,no,male
+unmarried,no high school,no,male
+married,college,yes,male
+unmarried,no high school,no,male
+married,no high school,no,male
+unmarried,no high school,yes,male
+married,college,no,male
+unmarried,no high school,no,male
+married,high school,no,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,no,male
+unmarried,no high school,yes,male
+married,no high school,no,male
+married,high school,yes,female
+married,no high school,no,male
+unmarried,college,yes,female
+unmarried,no high school,no,male
+unmarried,high school,yes,male
+married,high school,yes,male
+married,high school,no,female
+married,high school,yes,male
+unmarried,no high school,no,male
+married,high school,yes,female
+unmarried,no high school,no,male
+married,high school,yes,male
+unmarried,high school,no,male
+married,no high school,no,male
+married,no high school,no,male
+married,high school,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,no high school,no,male
+married,college,no,male
+married,high school,yes,male
+married,college,yes,male
+married,college,no,male
+married,college,yes,male
+unmarried,high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,no,female
+unmarried,no high school,no,male
+unmarried,college,yes,male
+married,college,yes,female
+unmarried,high school,no,male
+married,high school,no,male
+unmarried,no high school,no,male
+married,no high school,yes,male
+unmarried,college,no,male
+married,no high school,no,male
+married,high school,yes,male
+married,college,yes,male
+married,high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,college,no,male
+unmarried,high school,no,male
+married,high school,no,female
+unmarried,college,yes,male
+unmarried,high school,no,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+married,no high school,yes,male
+married,high school,no,female
+unmarried,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,high school,no,male
+married,high school,no,male
+married,college,yes,male
+unmarried,no high school,no,male
+unmarried,high school,no,male
+unmarried,no high school,no,male
+unmarried,college,no,male
+married,college,yes,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,no high school,no,female
+unmarried,no high school,yes,male
+married,no high school,yes,male
+married,high school,no,male
+unmarried,college,yes,male
+unmarried,no high school,no,male
+married,high school,yes,male
+unmarried,no high school,no,male
+unmarried,no high school,yes,male
+unmarried,high school,no,male
+unmarried,high school,no,male
+married,high school,yes,male
+married,high school,yes,male
+married,high school,yes,male
+unmarried,no high school,no,male
+unmarried,college,yes,male
+married,college,yes,male
+married,high school,yes,male
+married,college,yes,female
+unmarried,college,yes,male
+unmarried,high school,yes,female
+unmarried,no high school,no,male
+married,high school,yes,female
+unmarried,high school,no,female
+married,high school,yes,male
+married,college,no,male
+unmarried,high school,no,male
+married,no high school,no,male
+unmarried,high school,no,female
+unmarried,high school,yes,male
+married,no high school,no,male
+unmarried,no high school,no,male
+unmarried,high school,yes,female
+unmarried,no high school,yes,female
+married,high school,no,male
+unmarried,college,yes,male
+married,no high school,yes,male
+unmarried,college,no,male
+married,no high school,yes,male
+married,high school,yes,male
+married,high school,no,female
+unmarried,college,yes,male
+married,no high school,yes,male
+unmarried,high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+married,high school,yes,male
+unmarried,no high school,no,male
+married,no high school,no,male
+unmarried,high school,yes,male
+married,high school,yes,male
+unmarried,high school,yes,female
+married,no high school,yes,male
+married,no high school,no,male
+unmarried,no high school,yes,male
+married,high school,no,male
+married,high school,no,male
+married,no high school,no,male
+married,no high school,yes,female
+unmarried,college,no,male
+married,college,no,male
+unmarried,high school,no,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,no high school,yes,male
+unmarried,college,no,male
+unmarried,college,no,male
+married,no high school,yes,male
+unmarried,no high school,no,male
